@@ -1,0 +1,4 @@
+C:\Users\sawka.minkin\Documents\Visual Studio 2013\Projects\git\DataParser\DataParser\bin\Debug\DataParser.dll
+C:\Users\sawka.minkin\Documents\Visual Studio 2013\Projects\git\DataParser\DataParser\bin\Debug\DataParser.pdb
+C:\Users\sawka.minkin\Documents\Visual Studio 2013\Projects\git\DataParser\DataParser\obj\Debug\DataParser.dll
+C:\Users\sawka.minkin\Documents\Visual Studio 2013\Projects\git\DataParser\DataParser\obj\Debug\DataParser.pdb

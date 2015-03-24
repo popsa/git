@@ -1,0 +1,7 @@
+C:\Users\sawka.minkin\Documents\Visual Studio 2013\Projects\git\DataParser\ModbusDataParser\obj\Debug\ModbusDataParser.csprojResolveAssemblyReference.cache
+C:\Users\sawka.minkin\Documents\Visual Studio 2013\Projects\git\DataParser\ModbusDataParser\bin\Debug\ModbusDataParser.dll
+C:\Users\sawka.minkin\Documents\Visual Studio 2013\Projects\git\DataParser\ModbusDataParser\bin\Debug\ModbusDataParser.pdb
+C:\Users\sawka.minkin\Documents\Visual Studio 2013\Projects\git\DataParser\ModbusDataParser\bin\Debug\DataParser.dll
+C:\Users\sawka.minkin\Documents\Visual Studio 2013\Projects\git\DataParser\ModbusDataParser\bin\Debug\DataParser.pdb
+C:\Users\sawka.minkin\Documents\Visual Studio 2013\Projects\git\DataParser\ModbusDataParser\obj\Debug\ModbusDataParser.dll
+C:\Users\sawka.minkin\Documents\Visual Studio 2013\Projects\git\DataParser\ModbusDataParser\obj\Debug\ModbusDataParser.pdb
