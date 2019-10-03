@@ -1,0 +1,189 @@
+{"schdb": 	
+	"ships": {
+		"ship": [
+			{
+				"name": "Minotaur",
+				"class": "tank"
+				"activeCooldown": "12.5",			
+				"activeActionTime": "0",			
+				"passiveCooldown": "6",
+				"passiveActionTime": "0"			
+			}
+			{
+				"name": "Hydra",
+				"class": "suppression"
+				"activeCooldown": "12",			
+				"activeActionTime": "0",			
+				"passiveCooldown": "8",
+				"passiveActionTime": "2"			
+			}
+			{
+				"name": "Singularity",
+				"class": "strike"
+				"activeCooldown": "9.2",			
+				"activeActionTime": "0",			
+				"passiveCooldown": "3.4",
+				"passiveActionTime": "0"			
+			}
+			{
+				"name": "Object 18",
+				"class": "support"
+				"activeCooldown": "10.5",			
+				"activeActionTime": "0",			
+				"passiveCooldown": "9",
+				"passiveActionTime": "4"			
+			}
+			{
+				"name": "Zealot",
+				"class": "tank"
+				"activeCooldown": "8",			
+				"passiveCooldown": "9",
+				"passiveActionTime": "5"			
+			}
+			{
+				"name": "Nyx",
+				"class": "suppression"
+				"activeCooldown": "7",		
+				"activeActionTime": "6",				
+				"passiveCooldown": "0",
+				"passiveActionTime": "0"			
+			}
+			{
+				"name": "Loki",
+				"class": "strike"
+				"activeCooldown": "12",
+				"activeActionTime": "0",						
+				"passiveCooldown": "0",
+				"passiveActionTime": "0"			
+			}
+			{
+				"name": "Shark",
+				"class": "tank"
+				"activeCooldown": "27",
+				"activeActionTime": "8",						
+				"passiveCooldown": "25",
+				"passiveActionTime": "8"			
+			}
+			{
+				"name": "Gargoyle",
+				"class": "strike"
+				"activeCooldown": "12",
+				"activeActionTime": "5",						
+				"passiveCooldown": "10",
+				"passiveActionTime": "5"			
+			}
+			{
+				"name": "Tiger",
+				"class": "strike"
+				"activeCooldown": "12",
+				"activeActionTime": "0",						
+				"passiveCooldown": "0",
+				"passiveActionTime": "0"			
+			}
+			{
+				"name": "Zhen",
+				"class": "suppression"
+				"activeCooldown": "10",
+				"activeActionTime": "0",						
+				"passiveCooldown": "0",
+				"passiveActionTime": "0"			
+			}
+			{
+				"name": "Flamberg",
+				"class": "strike"
+				"activeCooldown": "10.5",
+				"activeActionTime": "0",						
+				"passiveCooldown": "0",
+				"passiveActionTime": "0"			
+			}
+			{
+				"name": "Octopus",
+				"class": "tank"
+				"activeCooldown": "14",
+				"activeActionTime": "5",						
+				"passiveCooldown": "10",
+				"passiveActionTime": "0"			
+			}
+			{
+				"name": "Templar",
+				"class": "strike"
+				"activeCooldown": "11",
+				"activeActionTime": "0",						
+				"passiveCooldown": "0",
+				"passiveActionTime": "0"			
+			}
+			{
+				"name": "Grizzli",
+				"class": "strike"
+				"activeCooldown": "11",
+				"activeActionTime": "0",						
+				"passiveCooldown": "11.5",
+				"passiveActionTime": "0"			
+			}
+			{
+				"name": "Spyke",
+				"class": "strike"
+				"activeCooldown": "10",
+				"activeActionTime": "0",						
+				"passiveCooldown": "9",
+				"passiveActionTime": "5"			
+			}
+			{
+				"name": "Saw One",
+				"class": "support"
+				"activeCooldown": "20",			
+				"activeActionTime": "0",			
+				"passiveCooldown": "15",
+				"passiveActionTime": "5"			
+			}
+			{
+				"name": "Joker",
+				"class": "strike"
+				"activeCooldown": "16",
+				"activeActionTime": "0",						
+				"passiveCooldown": "8",
+				"passiveActionTime": "0"			
+			}
+			{
+				"name": "Dragonfly",
+				"class": "support"
+				"activeCooldown": "12",			
+				"activeActionTime": "5",			
+				"passiveCooldown": "0",
+				"passiveActionTime": "0"			
+			}
+			{
+				"name": "Dart",
+				"class": "suppression"
+				"activeCooldown": "10",			
+				"activeActionTime": "5",			
+				"passiveCooldown": "0",
+				"passiveActionTime": "0"			
+			}
+			{
+				"name": "Lynx",
+				"class": "strike"
+				"activeCooldown": "8",
+				"activeActionTime": "0",						
+				"passiveCooldown": "0",
+				"passiveActionTime": "0"			
+			}
+			{
+				"name": "Desert Eagle",
+				"class": "support"
+				"activeCooldown": "12",			
+				"activeActionTime": "0",			
+				"passiveCooldown": "0",
+				"passiveActionTime": "0"			
+			}
+			{
+				"name": "Ghost",
+				"class": "support"
+				"activeCooldown": "19",			
+				"activeActionTime": "0",			
+				"passiveCooldown": "10",
+				"passiveActionTime": "0"			
+			}
+		]
+	}
+}
